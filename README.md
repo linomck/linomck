@@ -12,13 +12,6 @@
 - 🌍 **Location**: Germany 🇩🇪
 - 📚 **Always**: Eager to learn new technologies and improve my skills
 
-## 💼 What I'm Working On
-
-- 🔨 Building projects to strengthen my development skills
-- 📖 Learning industry best practices and clean code principles
-- 🤝 Collaborating with experienced developers and mentors
-- 🌟 Contributing to open-source projects when possible
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
@@ -31,23 +24,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linomck&show_icons=true&theme=tokyonight&hide_border=true" alt="Lino's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linomck&theme=tokyonight&hide_border=true" alt="Lino's GitHub Streak" />
-</div>
-
-## 🌟 Fun Facts
-
-- ⚡ **Quick learner**: Always excited to dive into new technologies
-- 🎮 **Hobbies**: Gaming, hiking in the mountains 🏔️, and exploring new places
-- 🏢 **Working at**: Bergfreunde GmbH - perfect for someone who loves the outdoors!
-- 💡 **Philosophy**: Every line of code is a step towards becoming a better developer
 
 ## 📬 Let's Connect!
 
